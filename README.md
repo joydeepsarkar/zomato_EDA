@@ -1,4 +1,3 @@
-# zomato_EDA
 The EDA is performed on a dataset about Zomato.
 The Dataset was downloaded from Kaggle(https://www.kaggle.com/datasets/rishikeshkonapure/zomato).
 EDA was performed mainly using Python, Pandas, Matplotlib and Seaborn. 
